@@ -1,0 +1,1724 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"confir",
+				"confirm(aSome)"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"ife",
+				"ife	if … else"
+			],
+			[
+				"_",
+				"_POST"
+			],
+			[
+				"di",
+				"display	trans_genpMtcn.php"
+			],
+			[
+				"getElement",
+				"getElementById('aSome')"
+			],
+			[
+				"i",
+				"ife	if … else"
+			],
+			[
+				"disa",
+				"disabled()	jquery-1.9.1.js"
+			],
+			[
+				"clienteprei",
+				"clienteprein_id"
+			],
+			[
+				"clie",
+				"clienteprein_id"
+			],
+			[
+				"place",
+				"placeholder"
+			],
+			[
+				"val",
+				"value	Attr"
+			],
+			[
+				"on",
+				"onclick	Attr"
+			],
+			[
+				"a",
+				"array	$… = array (…)"
+			],
+			[
+				"for",
+				"for	for …"
+			],
+			[
+				"cl",
+				"class	Attr"
+			],
+			[
+				"onli",
+				"onclick	Attr"
+			],
+			[
+				"fun",
+				"fun	function …"
+			],
+			[
+				"els",
+				"else"
+			],
+			[
+				"margin-",
+				"margin-bottom:   (property)"
+			],
+			[
+				"paddin",
+				"padding:   (property)"
+			],
+			[
+				"swit",
+				"switch	switch …"
+			],
+			[
+				"getEleme",
+				"getElementById('aSome')"
+			],
+			[
+				"padding-",
+				"padding-left:   (property)"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"read",
+				"ready(fn)	jquery.js"
+			],
+			[
+				"rea",
+				"ready	document.ready - $(function(){})"
+			],
+			[
+				"t",
+				"thead	Tag"
+			],
+			[
+				"split",
+				"split(s /* separator */, limit)	xregexp.js"
+			],
+			[
+				"func",
+				"funcalendario(ifield1)	chequear - copia.js"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"HttpRe",
+				"http_request_method_exists"
+			],
+			[
+				"javascr",
+				"javascript:funvalidar2"
+			],
+			[
+				"o",
+				"onblur	Attr"
+			],
+			[
+				"debug",
+				"debugger"
+			],
+			[
+				"hear",
+				"heartbeat"
+			],
+			[
+				"txtm",
+				"txtmtcn"
+			],
+			[
+				"switch",
+				"switch	switch …"
+			],
+			[
+				"Uppe",
+				"Uppercase"
+			],
+			[
+				"sty",
+				"style	Attr"
+			],
+			[
+				"Recei",
+				"Receiver"
+			],
+			[
+				"hid",
+				"hidden"
+			],
+			[
+				"tex",
+				"text	.text()"
+			],
+			[
+				"resul",
+				"result"
+			],
+			[
+				"2",
+				"2"
+			],
+			[
+				"html",
+				"html	.html()"
+			],
+			[
+				"lo",
+				"load	.load()"
+			],
+			[
+				"l",
+				"last	.last()"
+			],
+			[
+				"v",
+				"value	Attr"
+			],
+			[
+				"inp",
+				"input"
+			],
+			[
+				"get",
+				"get	.get()"
+			],
+			[
+				"te",
+				"text	.text()"
+			],
+			[
+				"bg",
+				"bgc	background-color: #${1:fff};"
+			],
+			[
+				"we",
+				"white"
+			],
+			[
+				"border",
+				"border-style"
+			],
+			[
+				"boder-top",
+				"border-top-width"
+			],
+			[
+				"blu",
+				"skyblue"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"displa",
+				"display"
+			],
+			[
+				"br",
+				"browser	$.browser.version"
+			],
+			[
+				"functi",
+				"function"
+			],
+			[
+				"requi",
+				"require"
+			],
+			[
+				"txt",
+				"txterror"
+			],
+			[
+				"aler",
+				"alert"
+			],
+			[
+				"receiveMo",
+				"wsReceiveMoneySearch"
+			],
+			[
+				"receiveMoneySele",
+				"wsReceiveMoneySelect"
+			],
+			[
+				"swith",
+				"switch"
+			],
+			[
+				"siw",
+				"swift"
+			],
+			[
+				"s",
+				"serialize	.serialize()"
+			],
+			[
+				"undefi",
+				"undefined"
+			],
+			[
+				"he",
+				"height	Attr"
+			],
+			[
+				"inn",
+				"innerHTML"
+			],
+			[
+				"inc",
+				"incl	include …"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"table-",
+				"table-column"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"alin",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"bot",
+				"border-top"
+			],
+			[
+				"ke",
+				"keyDinero"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"pay",
+				"payment_transaction"
+			],
+			[
+				"re",
+				"receive"
+			],
+			[
+				"pa",
+				"payment_transaction"
+			],
+			[
+				"onc",
+				"onclick	Attr"
+			],
+			[
+				"deta",
+				"detalles_pago"
+			],
+			[
+				"st",
+				"stringfy"
+			],
+			[
+				"det",
+				"detalles_pago"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"dete",
+				"detalles_pago"
+			],
+			[
+				"paymen",
+				"payment_transactions"
+			],
+			[
+				"receive",
+				"receiveMoneySelect.php"
+			],
+			[
+				"payment",
+				"paymen_transactions"
+			],
+			[
+				"po",
+				"poseeCel"
+			],
+			[
+				"VAR",
+				"var_dump"
+			],
+			[
+				"nume",
+				"number_matches"
+			],
+			[
+				"number",
+				"number_matches"
+			],
+			[
+				"payme",
+				"payment_transactions"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"set",
+				"select	.select()"
+			],
+			[
+				"nom",
+				"nomtotalApagar"
+			],
+			[
+				"se",
+				"sescodusuario"
+			],
+			[
+				"rif",
+				"rifentidad"
+			],
+			[
+				"egu",
+				"eguevara"
+			],
+			[
+				"saldo",
+				"saldofin"
+			],
+			[
+				"sad",
+				"saldofin"
+			],
+			[
+				"por",
+				"porpagar  (variable)"
+			],
+			[
+				"pg_num",
+				"pg_num_rows  (function)"
+			],
+			[
+				"numb",
+				"number22  (variable)"
+			],
+			[
+				"quer",
+				"query  (variable)"
+			],
+			[
+				"nacion",
+				"nacional"
+			],
+			[
+				"dep",
+				"depósito"
+			],
+			[
+				"in",
+				"int"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"cedu",
+				"ceduCliente"
+			],
+			[
+				"q",
+				"query  (variable)"
+			],
+			[
+				"repl",
+				"replace"
+			],
+			[
+				"replace",
+				"replaceAll	.replaceAll"
+			],
+			[
+				"fecha",
+				"fechamensa"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"b",
+				"background"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/views/index/index.volt",
+			"settings":
+			{
+				"buffer_size": 556,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: lis",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"GIT",
+				"Github: Repository"
+			],
+			[
+				"Package Control: remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"test",
+				"Test Runner: Run tests"
+			],
+			[
+				"",
+				"Test Runner: Run tests"
+			],
+			[
+				"Package Control: i",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: $… = ( … ) ? … : …"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Emmet: Remove Tag"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Github",
+				"Github: Repository"
+			],
+			[
+				"github",
+				"Github: Repository"
+			],
+			[
+				"pack Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: isnt",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pain",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Preferences: Package Control Settings – Default"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 152.0,
+		"history":
+		[
+			"C:\\Users\\Administrador\\AppData\\Roaming\\npm\\jshint.cmd --version",
+			"C:\\Users\\Administrador\\AppData\\Roaming\\npm\\jshint.cmd",
+			"SublimeLinter",
+			"where linter",
+			"'C:\\\\Users\\\\Administrador\\\\AppData\\\\Roaming\\\\npm\\\\jslint.cmd', '--terse'",
+			"Yes",
+			"/.config",
+			".config",
+			"config",
+			"~/.config",
+			"..",
+			"clr",
+			"where ",
+			"where linter",
+			"sublime.message_dialog(view.encoding())",
+			"view.encoding()",
+			"sublime.active_window().active_view().settings().get('syntax') #sthash.3cjwsr5F.dpuf",
+			"IMPORT urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) IF NOT os.path.EXISTS(ipp) ELSE None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); OPEN(os.path.JOIN(ipp,pf),'wb').WRITE(urllib2.urlopen('http://sublime.wbond.net/'+pf.REPLACE(' ','%20')).read()); print 'Please restart Sublime Text to finish installation'",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package';"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/desarrollo2/www/pruph2/app/controllers/IndexController.php",
+		"/C/desarrollo2/www/pruph2/app/controllers/ControllerBase.php",
+		"/C/desarrollo2/www/pruph2/.ignore",
+		"/C/desarrollo2/www/pruph2/app/views/index.volt",
+		"/C/desarrollo2/www/pruph2/app/config/config.php",
+		"/C/desarrollo2/www/pruph2/app/config/loader.php",
+		"/C/desarrollo2/www/pruph2/app/config/services.php",
+		"/C/desarrollo2/www/pruph2/public/index.php",
+		"/C/desarrollo2/www/pruph1/public/index.php",
+		"/C/desarrollo2/www/pruph/public/index.php",
+		"/C/desarrollo2/www/pruph/.htaccess",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432581400/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_reintegro_dat_nu.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432569130/mapped/var/www/localhost/vhost/orinoco/oficinas/formas_pago_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432568671/mapped/var/www/localhost/vhost/orinoco/sedeppal/trans_envint_dat2.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432569063/mapped/var/www/localhost/vhost/orinoco/sedeppal/formas_pago_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432568704/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_envint_dat2.php3",
+		"/C/Users/Administrador/Documents/phalconbox/Vagrantfile",
+		"/C/Users/Administrador/Desktop/invo-master/app/config/services.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/apro_solicitudes_wu.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/aprobar_solicitudesfun.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/apro_solicitudes.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/cliente/ficha_clienteEd.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706492/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_reintegro_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706492/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_reintegro_dat_nu.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706492/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_gen.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706492/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_gen_nu.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1432040754/mapped/var/www/localhost/vhost/orinoco/oficinas/nuevo_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_gen_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_operaciones_dat.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinagw/prueba_recibo.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_operacionesp_dat.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/formas_pago_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/listas_pag/Lista depag_inclusionAlert_formaPago",
+		"/C/Users/Administrador/Documents/Sistemas/listas_pag/Lista de pag_de_aprovacionSoli",
+		"/C/Users/Administrador/Documents/Sistemas/listas_pag/Lista de pag_ingresar_transSEDEPPAL",
+		"/C/Users/Administrador/Desktop/paginas_de_aprovacionSoli",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/Lista de pag para cambiar mtcn",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/Lista de pag para reintegro",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706606/mapped/var/www/localhost/vhost/orinoco/oficinas/formas_pago_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431707793/mapped/var/www/localhost/vhost/orinoco/chequear.js",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706492/mapped/var/www/localhost/vhost/orinoco/oficinas/pagos_consultar_zoom.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706579/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_reintegro_dat_nu.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706579/mapped/var/www/localhost/vhost/orinoco/oficinas/pagos_consultar_zoom.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431706606/mapped/var/www/localhost/vhost/orinoco/sedeppal/apro_solicitudes.php",
+		"/C/Users/Administrador/Dropbox/Presentacion_desarrollo/presentacion.txt",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinagw/formas_pago_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/casadecambiozoom_old/include/tests/fetchmode_object.inc",
+		"/C/Users/Administrador/AppData/Local/Temp/fz3temp-1/authorized_keys 2",
+		"/C/Users/Administrador/Documents/Laravel4-Vagrant/Vagrantfile",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_genp.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/cliente/ficha_cliente.php3",
+		"/C/Users/Administrador/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/N1M8SQ7U/pago_terceros_14052015031743  13052015  VALOR  15052015.txt",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_cadivi_dat_m.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431522132/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_operacionesp_dat.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431444841/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_operaciones_dat.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431522132/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_gen_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431522132/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_rencadivi_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431522132/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_cadivi_dat_m.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431444841/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_operacionesp_dat.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431444853/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_operacionesp_dat.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431447296/mapped/var/www/localhost/vhost/orinoco/sedeppal/apro_solicitudes.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/trans_operaciones_datRES.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/trans_operaciones_dat.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/trans_genp.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/formas_pago_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/trans_genpRESED.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/pagos_reportes_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/reportes_movimiento.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431017849/mapped/var/www/localhost/vhost/orinoco/generarecibo/impriReciboLiqui.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_genpMtcn.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_genpfun.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/sedeppal/reportes_solicitud_transaccion.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1430428634/mapped/var/www/localhost/vhost/orinoco/oficinas/formas_pago_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/nuevo_dat.php3",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1430428634/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_genpMtcn.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_gen_nu.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1431378046/mapped/var/www/localhost/vhost/orinoco/oficinasgateway/trans_gen.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_gen.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_reintegro_dat_nu.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinas/trans_reintegro_dat.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/sftp-config.json",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/prueba_recibo.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/eguevara/pruebaCel.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/casadecambiozoom_old/pruebaquery.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/htdocs/imprimir/pagowu.txt",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/casadecambiozoom_old/include/tests/include.inc",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinagw/index_ccz.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinagw/ingresar_notacli.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/index.html",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/captcha/captcha.php",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/htdocs/internetebl/aliadosebl/casilleros_old.php3",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/casadecambiozoom/condiciones.html",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/vhost/orinoco/oficinagw/microseguros/include/tcpdf/CHANGELOG.TXT",
+		"/C/Users/Administrador/Documents/Sistemas/s_desarrollo2/localhost/htdocs/internetebl/aliadosebl/ebl/libs/adodb/tests/test-xmlschema.php",
+		"/C/users/admini~1/appdata/local/temp/sublime-sftp-browse-1430428634/mapped/var/www/localhost/vhost/orinoco/oficinas/trans_operacionesp_dat.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Providers/RouteServiceProvider.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Http/routes.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Http/Controllers/WelcomeController.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/config/view.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Providers/BusServiceProvider.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Providers/ConfigServiceProvider.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/config/view.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/controllers/HomeController.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/controllers/BaseController.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/config/remote.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/config/app.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/config/services.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/config/filesystems.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/Http/Controllers/PostsController.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/config/queue.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/User.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/resources/views/welcome.blade.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/resources/views/home.blade.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/config/queue.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/config/session.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/config/app.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/public/index.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/resources/views/app.blade.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/.gitignore",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/routes.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/views/hello.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/public/index.php~",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/public/robots.txt",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/tests/ExampleTest.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/tests/TestCase.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/filters.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/controllers/UsuarioController.php",
+		"/C/Users/Administrador/Documents/ProyectosOut/prueba-heroku5/app/views/usuarios/main.blade.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<project>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"funvalidar",
+			"ColocarCantAPagar",
+			"efectivo",
+			"funvalidar2",
+			"validar",
+			"validard",
+			"txtmontototalbs",
+			"funvalidar2",
+			"form",
+			"funbuscacliente",
+			"funt",
+			"funtipa",
+			"ocultar",
+			"tdd",
+			"tdd=",
+			"tdd",
+			"formas_pago_dat",
+			"txtmontototalbs",
+			"aprobar",
+			"paginaEnvio",
+			"funcalcularmontotot",
+			"ColocarCantAPagar",
+			"popUpDe",
+			"validardeposito",
+			"$txtreferencia=$",
+			"$txtreferencia=$txtchenum;",
+			"banco",
+			"$codtipopagwu",
+			"<>17",
+			"var_dump",
+			"form",
+			"CONSOLE.LOG",
+			"SCRIPT",
+			"funvalidar2",
+			"console.log",
+			"montototalbs",
+			"funvalidar2",
+			"funcalcularvuelto",
+			"funvalidar2",
+			"funcalcularvuelto",
+			"funcalcularvuelto ",
+			"funcalcularvuelto",
+			"funcalcularvuelto ",
+			"guest: 80",
+			"\\",
+			"buscarparametrostipocomwu",
+			"formas_pa",
+			"form",
+			"if(notificarTipopago()==false)/*La funcion que verifica que tipos de pagos se selecciono y pregunta si esta seguro*/\n		{\n			return null;\n		}",
+			">\n",
+			"parseFloat",
+			")>",
+			"dialog",
+			"notificarTipopago",
+			"$( \"#dialog-confirm\" ).dialog({",
+			"dialog",
+			"afectacaja",
+			"txtreferencia",
+			"urldecode($txtnomcliente).",
+			"txtnroident",
+			"txtnomcliente",
+			"form",
+			"txtnomcliente",
+			"codtipopagwu",
+			"txtnomcliente",
+			"PARA PRue",
+			"txtmontomix",
+			"RETURNING",
+			"cmbtipopagwu",
+			"$txtreferencia",
+			"txtcodre",
+			"$cmbtipopagwu==15",
+			"txtreferencia",
+			"montototalbs",
+			"txtmontototalbs",
+			"document.getElementById('txtmontototalbs')",
+			"txtmontototalbs",
+			"document.getElementById('txtmontodep').value",
+			"document.getElementById('txtmontototalbs')",
+			"txtmontototalbs",
+			"funvalidar2",
+			"ColocarCantAPagar",
+			"ColocarCantAPagar\n",
+			"comccz",
+			"codoficina",
+			"txtnomcliente",
+			"laravel",
+			"funvalidar2",
+			"rand_string",
+			"rand_string()",
+			"rand_string();",
+			"cadena_ale",
+			"txtreferencia",
+			"documentowu",
+			"txtreferencia",
+			"referencia",
+			"$codreferencia",
+			"codreferencia",
+			"FECHA",
+			" FECHA",
+			"> FECHA",
+			">FECHA",
+			"FECHA",
+			"fecha",
+			"FOE",
+			"FOR",
+			"FOE",
+			"FOR",
+			"print \"quer",
+			"query7=",
+			"uno query7=",
+			"-->",
+			"LEFT JOIN pagowuaux ON ( pagowuaux.nroaprobacionbcv= transferenciawu.nroaprobacionbcv and pagowuaux.codusuario=transferenciawu.codusuario and pagowuaux.codidentificacion=transferenciawu.rifcicli and pagowuaux.fecha=transferenciawu.fecha and pagowuaux.codtipopagwu=24) \n			",
+			"col-md-2",
+			" \"><",
+			"col-md-2",
+			"tipotrans",
+			"tipoid",
+			"7",
+			"funvalidar2",
+			"funcalcularvuelto",
+			"funcalcularvuelto ",
+			"funcalculardiferencia",
+			"readOnly",
+			"txtmontocomccz",
+			"montoccz",
+			"$tipo=",
+			"$tipo "
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"find_under_prev",
+			")            ",
+			"                  "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/views/index/index.volt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 556,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								497,
+								497
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content"
+							],
+							"codeintel": true,
+							"codeintel_config":
+							{
+								"JavaScript":
+								{
+									"codeintel_max_recursive_dir_depth": 2,
+									"codeintel_scan_files_in_project": false,
+									"javascriptExtraPaths":
+									[
+									]
+								},
+								"PHP":
+								{
+									"codeintel_max_recursive_dir_depth": 5,
+									"codeintel_scan_files_in_project": false,
+									"phpExtraPaths":
+									[
+									]
+								},
+								"Python":
+								{
+									"env":
+									{
+									}
+								}
+							},
+							"codeintel_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_live": true,
+							"codeintel_live_enabled_languages":
+							[
+								"JavaScript",
+								"Mason",
+								"XBL",
+								"XUL",
+								"RHTML",
+								"SCSS",
+								"Python",
+								"HTML",
+								"Ruby",
+								"Python3",
+								"XML",
+								"Sass",
+								"XSLT",
+								"Django",
+								"HTML5",
+								"Perl",
+								"CSS",
+								"Twig",
+								"Less",
+								"Smarty",
+								"Node.js",
+								"Tcl",
+								"TemplateToolkit",
+								"PHP"
+							],
+							"codeintel_max_recursive_dir_depth": 10,
+							"codeintel_scan_exclude_dir":
+							{
+								"JavaScript":
+								[
+									"/build/",
+									"/min/"
+								]
+							},
+							"codeintel_scan_files_in_project": true,
+							"codeintel_selected_catalogs":
+							[
+								"PyWin32",
+								"jQuery",
+								"Rails"
+							],
+							"codeintel_snippets": true,
+							"codeintel_syntax_map":
+							{
+								"Python Django": "Python"
+							},
+							"codeintel_tooltips": "popup",
+							"function_name_status_row": -1,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"sublime_auto_complete": true,
+							"synced": false,
+							"syntax": "Packages/Volt/Volt/HTML (Volt).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 154.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 123.0
+	},
+	"project": "Prueba_Phalcon.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"prueba_reci",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinagw\\prueba_recibo.php"
+			],
+			[
+				"prueba",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\prueba_recibo.php"
+			],
+			[
+				"apro",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\apro_solicitudes.php"
+			],
+			[
+				"funcionesphp",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\funcionesphp.php3"
+			],
+			[
+				"trans_operacionesp_dat.php",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinas\\trans_operacionesp_dat.php"
+			],
+			[
+				"apro_solicitudes_w",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\apro_solicitudes_wu.php"
+			],
+			[
+				"apro_solicitudes",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\aprobar_solicitudesfun.php"
+			],
+			[
+				"verificar_dep_ajax",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinas\\verificar_dep_ajax.php3"
+			],
+			[
+				"formas_pago_dat",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinagw\\formas_pago_dat.php3"
+			],
+			[
+				"reporte_apro_solicitudes.php",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\reporte_apro_solicitudes.php"
+			],
+			[
+				"apro_soli",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\aprobar_solicitudesfun.php"
+			],
+			[
+				"funcionesphp.php",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\funcionesphp.php3"
+			],
+			[
+				"trans_genp",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinas\\trans_genp.php"
+			],
+			[
+				"ficha_lcienteed",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\cliente\\ficha_clienteEd.php3"
+			],
+			[
+				"/reportes_solicitud_transaccion.php3",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\reportes_solicitud_transaccion.php3"
+			],
+			[
+				"chequear",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinas\\chequear.js"
+			],
+			[
+				"funciones",
+				"s_desarrollo2\\localhost\\vhost\\casadecambiozoom\\funcionesphp.php"
+			],
+			[
+				"cabecera.php3",
+				"s_desarrollo2\\localhost\\vhost\\orinoco\\oficinas\\cabecera.php3"
+			],
+			[
+				"reportes_solicitud_transaccion",
+				"C:\\Users\\Administrador\\Documents\\Sistemas\\s_desarrollo2\\localhost\\vhost\\orinoco\\sedeppal\\reportes_solicitud_transaccion.php3"
+			],
+			[
+				"gen_sudebantxt_dat.php",
+				"localhost\\vhost\\orinoco\\sedeppal\\gen_sudebantxt_dat.php"
+			],
+			[
+				"generar",
+				"localhost\\vhost\\orinoco\\generarecibo\\generartxtbcv.php"
+			],
+			[
+				"apro_solic",
+				"localhost\\vhost\\orinoco\\sedeppal\\apro_solicitudes.php"
+			],
+			[
+				"",
+				"C:\\users\\admini~1\\appdata\\local\\temp\\sublime-sftp-browse-1426769850\\mapped\\var\\www\\localhost\\vhost\\orinoco\\sedeppal\\exportar.php3"
+			],
+			[
+				"exportar.php3",
+				"localhost\\vhost\\orinoco\\sedeppal\\exportar.php3"
+			],
+			[
+				"class.phpmailer.php",
+				"localhost\\vhost\\casadecambiozoom\\citas\\include\\PHPMailer\\class.phpmailer.php"
+			],
+			[
+				"cheque",
+				"localhost\\vhost\\orinoco\\chequear.js"
+			],
+			[
+				"cheq",
+				"localhost\\vhost\\orinoco\\chequear.js"
+			],
+			[
+				"chequear.js",
+				"localhost\\vhost\\orinoco\\chequear.js"
+			],
+			[
+				"pagos_cons",
+				"localhost\\vhost\\orinoco\\oficinagw\\pagos_consultar_zoom.php3"
+			],
+			[
+				"mail",
+				"localhost\\vhost\\casadecambiozoom\\mail\\mail.php3"
+			],
+			[
+				"trans_operaciones",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_operaciones_dat.php"
+			],
+			[
+				"trans_ge",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_genp.php"
+			],
+			[
+				"trans_gen",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_genp.php"
+			],
+			[
+				"login.php3",
+				"localhost\\vhost\\orinoco\\oficinagw\\login.php3"
+			],
+			[
+				"reportes_solicitud_transaccion_dat.php3",
+				"localhost\\vhost\\orinoco\\sedeppal\\reportes_solicitud_transaccion_dat.php3"
+			],
+			[
+				"reportes_solicitud",
+				"localhost\\vhost\\orinoco\\sedeppal\\reportes_solicitud_transaccion_dat.php3"
+			],
+			[
+				"prueba_rec",
+				"localhost\\vhost\\orinoco\\oficinagw\\prueba_recibo.php"
+			],
+			[
+				"trana_genp.",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_genp.php"
+			],
+			[
+				"imprire",
+				"localhost\\vhost\\orinoco\\generarecibo\\impriReciboLiqui.php"
+			],
+			[
+				"trans",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_envint.php3"
+			],
+			[
+				"trans_envint_dat.php3",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_envint_dat.php3"
+			],
+			[
+				"imprio",
+				"localhost\\vhost\\orinoco\\generarecibo\\imprio_architxt.php"
+			],
+			[
+				"prueba_re",
+				"localhost\\vhost\\orinoco\\oficinagw\\prueba_recibo.php"
+			],
+			[
+				"txtbcv",
+				"localhost\\vhost\\orinoco\\generarecibo\\generartxtbcv.php"
+			],
+			[
+				"reportes_resumen_dat.php3",
+				"localhost\\vhost\\orinoco\\sedeppal\\reportes_resumen_dat.php3"
+			],
+			[
+				"formas_pago_da",
+				"localhost\\vhost\\orinoco\\oficinas\\formas_pago_dat.php3"
+			],
+			[
+				"impri",
+				"localhost\\vhost\\orinoco\\generarecibo\\impriReciboLiqui.php"
+			],
+			[
+				"pruebarecibo",
+				"localhost\\vhost\\orinoco\\oficinagw\\prueba_recibo.php"
+			],
+			[
+				"trans_operacionesp_dat",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_operacionesp_dat.php"
+			],
+			[
+				"trans_operaciones_dat",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_operaciones_dat.php"
+			],
+			[
+				"formas_",
+				"localhost\\vhost\\orinoco\\oficinas\\formas_pago_dat.php3"
+			],
+			[
+				"trans_rencadivi",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_rencadivi_dat.php3"
+			],
+			[
+				"prueba_recibo.php",
+				"localhost\\vhost\\orinoco\\oficinagw\\prueba_recibo.php"
+			],
+			[
+				"ficha_cliente",
+				"localhost\\vhost\\orinoco\\cliente\\ficha_cliente.php3"
+			],
+			[
+				"imprireciboliqui",
+				"localhost\\vhost\\orinoco\\generarecibo\\impriReciboLiqui.php"
+			],
+			[
+				"reportes",
+				"localhost\\vhost\\orinoco\\sedeppal\\reportes.php3"
+			],
+			[
+				"datos",
+				"localhost\\vhost\\orinoco\\sedeppal\\datos.php3"
+			],
+			[
+				"prueba_recibo",
+				"localhost\\vhost\\orinoco\\prueba_recibo.php"
+			],
+			[
+				"ficha_cliente_",
+				"localhost\\vhost\\orinoco\\cliente\\ficha_cliente_d.php3"
+			],
+			[
+				"formas_pag",
+				"localhost\\vhost\\orinoco\\oficinas\\formas_pago_dat.php3"
+			],
+			[
+				"funcionesp",
+				"localhost\\vhost\\orinoco\\oficinas\\funcionesphp.php3"
+			],
+			[
+				"trans_operaciones_envsicad2.php",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_operaciones_envsicad2.php"
+			],
+			[
+				"trans_envint_dat",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_envint_dat.php3"
+			],
+			[
+				"trans_envint",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_envint.php3"
+			],
+			[
+				"trans_envint_dat2",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_envint_dat2.php3"
+			],
+			[
+				"trans_envi",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_envint.php3"
+			],
+			[
+				"trans_operaciones_dat.php",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_operaciones_dat.php"
+			],
+			[
+				"transoperaciones",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_operaciones_dat.php"
+			],
+			[
+				"trans_operacion",
+				"localhost\\vhost\\orinoco\\oficinagw\\trans_operaciones_dat.php"
+			],
+			[
+				"cheqe",
+				"localhost\\vhost\\orinoco\\chequear.js"
+			],
+			[
+				"inf_envit_m",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\inf_envit_m.php"
+			],
+			[
+				"inf_ren_pe.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\inf_ren_pe.php3"
+			],
+			[
+				"inf_envit_m.php",
+				"localhost\\vhost\\orinoco\\oficinas\\inf_envit_m.php"
+			],
+			[
+				"trans_rencadivi_dat",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_rencadivi_dat.php3"
+			],
+			[
+				"trans_cadivi.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi.php3"
+			],
+			[
+				"trans_rencadivi_dat.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_rencadivi_dat.php3"
+			],
+			[
+				"nuevo_dat.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\nuevo_dat.php3"
+			],
+			[
+				"trans_gen_dat.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_gen_dat.php3"
+			],
+			[
+				"trans_cadivi_dat_m2",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_cadivi_dat_m2.php"
+			],
+			[
+				"trans_cadivi_dat_m",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi_dat_m.php"
+			],
+			[
+				"trans_gen.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_gen.php3"
+			],
+			[
+				"trans_envint_dat2.php3",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_envint_dat2.php3"
+			],
+			[
+				"trans_cadivi_dat_m2.php",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi_dat_m2.php"
+			],
+			[
+				"trans_envint_datn",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_envint_datn.php3"
+			],
+			[
+				"trans_cadivi.",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi.php3"
+			],
+			[
+				"trans_rencadivi_",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_rencadivi_dat.php3"
+			],
+			[
+				"trans_cadivi_m2",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi_m2.php"
+			],
+			[
+				"trans_cadivi_m",
+				"localhost\\vhost\\orinoco\\oficinasPruebas1\\trans_cadivi_m.php"
+			],
+			[
+				"trans_cadivi_dat_m.php",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_cadivi_dat_m.php"
+			],
+			[
+				"/trans_rencadivi_dat.php3",
+				"localhost\\vhost\\orinoco\\oficinas\\trans_rencadivi_dat.php3"
+			],
+			[
+				"funciones_gatewa",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\funciones_gateway.php"
+			],
+			[
+				"receive",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\receiveMoneyPay.php"
+			],
+			[
+				"receivemone",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\receiveMoneySearch.php"
+			],
+			[
+				"trans_operac",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\trans_operaciones_dat.php"
+			],
+			[
+				"rece",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\reportes\\reportes_che_efe_ent.php3"
+			],
+			[
+				"paysta",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\payStatus.php"
+			],
+			[
+				"ficha_cliente_taq_dat_m",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\ ficha_cliente_taq_dat_m.php"
+			],
+			[
+				"inf_envint",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\inf_envint.php3"
+			],
+			[
+				"funciones_gate",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\funciones_gateway.php"
+			],
+			[
+				"funciones_ga",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\funciones_gateway.js"
+			],
+			[
+				"trans_opera",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\trans_operaciones_dat.php"
+			],
+			[
+				"log.t",
+				"localhost\\vhost\\eguevara\\sistema_citas_capa2\\webs_citas\\log.txt"
+			],
+			[
+				"ccitas",
+				"localhost\\vhost\\orinoco\\oficinas\\citas\\citas_funciones.php"
+			],
+			[
+				"calls",
+				"localhost\\vhost\\eguevara\\sistema_citas_capa2\\webs_citas\\documentacion\\calls\\calls.php"
+			],
+			[
+				"fucniones_gat",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\funciones_gateway.js"
+			],
+			[
+				"operaciones",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\trans_operaciones_dat.php"
+			],
+			[
+				"funciones_",
+				"localhost\\vhost\\orinoco\\oficinasgateway\\gateway\\include\\funciones_gateway.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"s_Vpos",
+				"C:\\Users\\Administrador\\Documents\\Sistemas\\s_VposTdd\\sVposTdd.sublime-project"
+			],
+			[
+				"desarrollo",
+				"C:\\Users\\Administrador\\Documents\\principalDesarrollo\\principalDesarrollo.sublime-workspace"
+			],
+			[
+				"",
+				"C:\\Users\\Administrador\\Documents\\Sistemas\\s_Desarrollo\\sDesarrollo.sublime-workspace"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 861.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 234.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 1
+	}
+}
